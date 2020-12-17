@@ -6,3 +6,5 @@ The motive was to understand how KNN works and what impact does different KNN va
 - euclidean
 - cosine
 - manhattan
+### Data set used -
+ diabetes.csv
